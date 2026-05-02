@@ -8,7 +8,7 @@ data/processed/*.csv
 data/processed/*.duckdb
 data/cache/
 
-research/sources/
+research/sources/horace_he_jane_street_transcript.txt
 
 .venv/
 __pycache__/
